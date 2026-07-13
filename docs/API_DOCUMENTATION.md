@@ -8,3 +8,8 @@ REST API endpoints for authentication and messaging.
 - POST /api/auth/logout
 - GET /api/auth/check
 
+## Message Routes
+- GET /api/messages/users
+- GET /api/messages/:id
+- POST /api/messages/send/:id
+
