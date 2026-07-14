@@ -8,3 +8,9 @@ MongoDB collections and data schemas.
 - password (String)
 - profilePic (String)
 
+## Message Model
+- senderId (ObjectId)
+- receiverId (ObjectId)
+- text (String)
+- image (String)
+
